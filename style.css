@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image:url("cocktail 2.jpg"); 
+    background-repeat: repeat-x;
+    
+}
+
+h1 {text-align: center;}
+*{
+    padding: 20;
+}
+
+h1 {color: red;}
+h2 {text-align: center;}
+h2 {color: orange;}
+h3 {color: royalblue;}
+h4 {color: seagreen;}
+main {text-align: center;
+ color: white;
+height: 100vh;
+padding-bottom: 4.6rem;
+}
+section {
+    background-color: black;
+}
+iframe {
+    margin-top: 5%;
+}
